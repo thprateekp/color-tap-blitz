@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm run web:build",
+  "outputDirectory": "dist",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "framework": null,
+  "cleanUrls": true
+}
